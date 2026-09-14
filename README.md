@@ -1,9 +1,10 @@
  Healthcare EDA Project
 Patient Readmission Risk Analysis
-https://img.shields.io/badge/Python-3.9%252B-blue
-https://img.shields.io/badge/Pandas-2.0%252B-green
-https://img.shields.io/badge/D--Tale-3.0%252B-orange
-https://img.shields.io/badge/Status-Active-success
+
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![Pandas](https://img.shields.io/badge/Pandas-2.0%2B-green)
+![D-Tale](https://img.shields.io/badge/D--Tale-3.0%2B-orange)
+![Status](https://img.shields.io/badge/Status-Active-success)
 
 📖 Overview
 An end-to-end Exploratory Data Analysis (EDA) project on a 500,000-record synthetic healthcare dataset. Students analyze patient data to uncover factors driving hospital readmissions and treatment costs, then deliver actionable recommendations.
