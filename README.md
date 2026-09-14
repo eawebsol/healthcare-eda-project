@@ -57,16 +57,23 @@ As noted in the repository documentation, this dataset contains realistic data q
 
 🔸 Multiple Feature Types — Numerical, categorical, and datetime columns
 
-📁 Repository Structure
-text
+## 📁 Repository Structure
+
+```text
 healthcare-eda-project/
 │
 ├── README.md                      # This file
+│
 ├── PROJECT_GUIDE.md               # Complete task documentation
+│
 ├── SETUP_GUIDE.md                 # Environment setup instructions
+│
 ├── HINTS.md                       # Optional hints per phase
+│
 ├── RUBRIC.md                      # Evaluation criteria
+│
 ├── requirements.txt               # Python dependencies
+│
 ├── .gitignore                     # Git ignore rules
 │
 ├── notebooks/
@@ -79,6 +86,8 @@ healthcare-eda-project/
     ├── figures/                   # Saved visualizations
     ├── cleaned_data.csv           # Exported clean dataset
     └── executive_summary.md       # Final report
+
+
 🚀 Quick Start
 1. Create Your Copy
 Click the green "Use this template" button at the top of this repo → "Create a new repository".
@@ -98,28 +107,35 @@ bash
 # Create virtual environment
 python -m venv venv
 
-# Activate
-# Windows:
+# Activate on Windows:
 venv\Scripts\activate
 # Mac/Linux:
 source venv/bin/activate
 
 # Install dependencies
 pip install -r requirements.txt
+
 4. Launch Jupyter
 bash
 jupyter notebook
+
 5. Open the Notebook
 Open notebooks/healthcare_eda.ipynb and follow the instructions inside.
 
 📋 Project Phases
 Phase	Focus	Key Output
 1	Data Loading & Inspection	Initial observations + D-Tale exploration
+
 2	Data Cleaning	Clean dataset with documented decisions
+
 3	Univariate Analysis	Distribution visualizations
+
 4	Bivariate & Multivariate	Relationship insights
+
 5	Feature Engineering	New business-relevant features
+
 6	Insights & Reporting	Dashboard + Recommendations
+
 See PROJECT_GUIDE.md for full task details.
 
 📦 Deliverables
@@ -165,12 +181,19 @@ See requirements.txt for the full list. Core libraries:
 
 text
 pandas>=2.0.0
+
 numpy>=1.24.0
+
 matplotlib>=3.7.0
+
 seaborn>=0.12.0
+
 dtale>=3.0.0
+
 jupyter>=1.0.0
+
 🏫 For Instructors
+
 Full task list: PROJECT_GUIDE.md
 
 Grading rubric: RUBRIC.md
@@ -180,6 +203,7 @@ Student hints: HINTS.md
 Setup instructions: SETUP_GUIDE.md
 
 📝 License
+
 Educational use only. Dataset is synthetic and safe for classroom use.
 
 Happy Analyzing! 📊
