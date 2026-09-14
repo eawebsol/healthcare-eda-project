@@ -43,6 +43,7 @@ Records	500,000
 Columns	22
 Size	62.3 MB
 Targets	Readmission Risk (classification), Total Cost (regression)
+
 ⚠️ Note: The CSV is hosted via Git LFS. If pd.read_csv() from the raw URL fails, download the file manually and load it locally. See SETUP_GUIDE.md.
 
 Data Quality Challenges
