@@ -34,6 +34,7 @@ By completing this project, you will be able to:
 
 ✅ Create a dashboard suitable for stakeholder presentation
 
+
 📊 Dataset
 Source: Synthetic Datasets Repository
 
@@ -87,6 +88,7 @@ healthcare-eda-project/
     ├── cleaned_data.csv           # Exported clean dataset
     └── executive_summary.md       # Final report
 
+```
 
 🚀 Quick Start
 1. Create Your Copy
@@ -100,24 +102,34 @@ Click Create repository
 
 2. Clone Your Copy
 bash
+```
 git clone https://github.com/<your-username>/healthcare-eda-yourname.git
 cd healthcare-eda-yourname
-3. Set Up Environment
+```
+4. Set Up Environment
 bash
+```
 # Create virtual environment
 python -m venv venv
-
+```
 # Activate on Windows:
+```
 venv\Scripts\activate
+```
 # Mac/Linux:
+```
 source venv/bin/activate
+```
 
 # Install dependencies
+```
 pip install -r requirements.txt
-
+```
 4. Launch Jupyter
 bash
+```
 jupyter notebook
+```
 
 5. Open the Notebook
 Open notebooks/healthcare_eda.ipynb and follow the instructions inside.
@@ -139,11 +151,17 @@ Phase	Focus	Key Output
 See PROJECT_GUIDE.md for full task details.
 
 📦 Deliverables
+
 □ Completed Jupyter Notebook (notebooks/healthcare_eda.ipynb)
+
 □ Cleaned dataset (outputs/cleaned_data.csv)
+
 □ Executive Summary (outputs/executive_summary.md or .pdf)
+
 □ Dashboard image (outputs/figures/dashboard.png)
-□ Presentation (presentation.pptx) — Optional
+
+□ Presentation (`presentation_template.pptx`) — Use this template
+
 🎓 Submission
 Submit your work as a single ZIP file containing:
 
@@ -159,7 +177,7 @@ Presentation (if completed)
 
 Naming convention: FirstName_LastName_HealthcareEDA.zip
 
-Submit via: [Instructor will provide submission link]
+Submit via: (https://drive.google.com/drive/folders/1Blo6xGIF9rf6s88bF9T3QIAZYTlWSHHw?usp=sharing)
 
 📚 Resources
 Pandas Docs
