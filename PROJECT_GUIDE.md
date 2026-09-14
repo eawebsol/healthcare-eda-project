@@ -444,6 +444,9 @@ Data Collection: What additional data would help?
 
 Deliverable: Complete analysis with executive summary, dashboard, and recommendations.
 
+Use the provided `presentation_template.pptx` as your starting point.
+Replace all [placeholders] with your findings.
+
 6. D-Tale Integration Points
 D-Tale is used as a supplementary tool at these key milestones:
 
